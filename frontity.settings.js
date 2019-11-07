@@ -2,7 +2,7 @@ const settings = {
   name: "frontity-twentynineteen",
   state: {
     frontity: {
-      url: "https://test.frontity.io",
+      url: "http://nocodenobugs.com/",
       title: "Test Frontity Blog",
       description: "WordPress installation for Frontity development"
     }
@@ -31,7 +31,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "https://test.frontity.io/wp-json"
+          api: "http://wp.nocodenobugs.com/wp-json"
         }
       }
     },
